@@ -1,0 +1,13 @@
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\bin\Debug\DetectBrowserUrl.exe.config
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\bin\Debug\DetectBrowserUrl.exe
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\bin\Debug\DetectBrowserUrl.pdb
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.Properties.Resources.resources
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.csproj.GenerateResource.cache
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.exe
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.pdb
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.Form1.resources
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\bin\Debug\DetectBrowserUrl.exe.manifest
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\bin\Debug\DetectBrowserUrl.application
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.exe.manifest
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.application
+C:\Users\Moeed Ahmad\source\repos\DetectBrowserUrl\DetectBrowserUrl\obj\Debug\DetectBrowserUrl.csprojAssemblyReference.cache
